@@ -12,6 +12,7 @@ on:
 
 jobs:
   build:
+    runs-on: ubuntu-latest
     strategy:
       matrix:
         pyversion: ['3.10.12','3.11']
