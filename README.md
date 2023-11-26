@@ -1,3 +1,7 @@
+[![Python application](https://github.com/darkgigi/decide_practica3_2324/actions/workflows/django.yml/badge.svg)](https://github.com/darkgigi/decide_practica3_2324/actions/workflows/django.yml)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a6fb234c04554d47afe650d93aa432f8)](https://app.codacy.com/gh/darkgigi/decide_practica3_2324/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/a6fb234c04554d47afe650d93aa432f8)](https://app.codacy.com/gh/darkgigi/decide_practica3_2324/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_coverage)
+
 FT1
 FT2
 FT3
